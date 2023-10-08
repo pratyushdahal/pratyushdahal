@@ -20,3 +20,28 @@ In this repository, you'll find a variety of projects and code snippets that sho
 I'd love to connect with fellow developers, collaborate on projects, and share knowledge. Feel free to reach out to me through GitHub or by pratyush2059dahal@gmail.com email or by my https://www.linkedin.com/in/pratyush-dahal-b65230201/ linkedIn.
 
 Happy coding! 🚀
+
+---
+## My GitHub activity and languages used.
+
+<br>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+       <a href="https://github.com/anuraghazra/github-readme-stats">
+         
+![pratyush github stats](https://github-readme-stats.vercel.app/api?username=pratyushdahal)
+         <img align="center" alt=""/>
+      </a>
+    </td>
+    <td valign="top" width="50%">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushdahal&hide_border=true&layout=compact" align="left" style="width: 100%;" />
+    </td>
+ </tr>
+</table>  
+
+## Profile views. 
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pratyushdahal&&style=flat-square" align="center" />
+</div>  
